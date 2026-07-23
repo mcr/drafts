@@ -31,29 +31,11 @@ author:
 
 normative:
   RFC6455:
-  ATREPO:
-    title: "Authenticated Transfer Repository"
-    date: draft-holmgren-at-repository
-    author:
-      -
-        fullname: Daniel Holmgren
-        organization: Bluesky Social
-      -
-        fullname: Bryan Newbold
-        organization: Bluesky Social
-
+  I-D.holmgren-at-repository: ATREPO
+    
 informative:
-  AT-ARCH:
-    title: "Authenticated Transfer: Architecture Overview"
-    date: draft-newbold-at-architecture
-    author:
-      -
-        fullname: Bryan Newbold
-        organization: Bluesky Social
-      -
-        fullname: Daniel Holmgren
-        organization: Bluesky Social
-...
+  I-D.newbold-at-architecture: AT-ARCH
+    
 
 --- abstract
 
